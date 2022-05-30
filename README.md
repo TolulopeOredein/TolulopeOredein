@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TolulopeOredein
 - 👀 I’m a full stack web developer.
-- 🌱 I use Java and associated statck extensively
+- 🌱 I use Java and associated stack extensively
 - 💞️ I’m looking to collaborate 
 - 📫 You can reach me via my email oredeintolulope@gmail.com
 
